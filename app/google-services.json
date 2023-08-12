@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175826649168",
+    "firebase_url": "https://tugas-uas-73b7d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-uas-73b7d",
+    "storage_bucket": "tugas-uas-73b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175826649168:android:001c2cf6c309d21a22d155",
+        "android_client_info": {
+          "package_name": "com.adit.tugasuas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175826649168-hj90kk5ic6r6s6bvds0f9uj4j71lq34t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5QCoopI7D9RKSkURjiYcI_giAsZcbg6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175826649168-hj90kk5ic6r6s6bvds0f9uj4j71lq34t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
